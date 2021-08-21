@@ -8,7 +8,7 @@ const HomeScreen = props => {
 };
 
 HomeScreen.navigationOptions = {
-  title: 'User List'
+  title: 'User list'
 }
 
 export default HomeScreen;
